@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.blog{
+	 text-decoration: underline;
+}
+.blog {
+color: blue;
+}
+.blewSection h1, p {
+	text-decoration:underline;
+	color:blue;
+}
+.blewSection p {
+font-size: 1.1rem;
+}
